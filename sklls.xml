@@ -1,0 +1,30 @@
+<?vml version-"1.0"?>
+<CAT>
+	<SKIL1>Basic theory</SKIL1>
+	<SKIL2>What is a client-server architecture</SKIL2>
+	<SKIL3>HTTP Methods of requests to the server</SKIL3>
+	<SKIL4>HTTP server response codes</SKIL4>
+	<SKIL5>Structures of HTTP requests and responses</SKIL5>
+	<SKIL6>What is JSON, XML</SKIL6>
+	<SKIL7>API testing via Postman, JS, API autotests</SKIL7>
+	<SKIL8>Removing and reading logs from an external server</SKIL8>
+	<SKIL9>Sniffing http web traffic via Charles and Fiddler</SKIL9>
+	<SKIL10>Dev Tools of web browsers</SKIL10>
+	<SKIL11>VPN</SKIL11>
+	<SKIL12>Mobile testing</SKIL12>
+	<SKIL13>Feature iOS, Android, guidelines</SKIL13>
+	<SKIL14>Building iOS applications on XCode</SKIL14>
+	<SKIL15>Building Android applications on Android Studio</SKIL15>
+	<SKIL16>ADB</SKIL16>
+	<SKIL17>Setting up proxy and vpn on iOS and Android</SKIL17>
+	<SKIL18>Interception of mobile traffic via Charles and Fiddler</SKIL18>
+	<SKIL19>Command line (terminal) Linux</SKIL19>
+	<SKIL20>Basics of bash scripting, automation of routine tasks on the server</SKIL20>
+	<SKIL21>Access to remote servers</SKIL21>
+	<SKIL22>SQL basics</SKIL22>
+	<SKIL23>Postgres database</SKIL23>
+	<SKIL24>Non-relational database Redis</SKIL24>
+	<SKIL25>Load testing in Jmeter</SKIL25>
+	<SKIL26>Scrum development methodology</SKIL26>
+</CAT>
+
